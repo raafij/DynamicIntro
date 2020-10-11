@@ -9,8 +9,7 @@ Nicola Bini
 Ali Mir
 
 Zhuomin Li
-
-
+#
 Hult International Business School
 
 Master of Business Analytics
